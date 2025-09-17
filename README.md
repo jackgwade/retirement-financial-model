@@ -1,6 +1,7 @@
 # Retirement Calculator (Excel Modeling Project)
 This project is a dynamic Excel-based retirement calculator designed to model long-term savings and withdrawal strategies. It was created as a personal finance and actuarial learning project.
 
+
 ## Features
 - Models 401(k), Roth IRA, Traditional IRA, taxable accounts, and mortgage into retirement
 - Inputs: contributions, expected return, inflation, retirement age, withdrawal amounts, tax bracket, withdrawal ages, etc.
@@ -11,8 +12,6 @@ This project is a dynamic Excel-based retirement calculator designed to model lo
   - Rates accounting for Inflation
 - Scenario testing with adjustable contribution rates and certain adjustable assumptions.
 
-Income Projections: 
-![Projection Chart](proj.png) 
 
 ## Skills Demonstrated
 - Basic Excel Modelling
@@ -20,8 +19,6 @@ Income Projections:
 - Retirement Planning and Investment Modeling
 - Clear Documentation and User-Friendly Design
 
-Mortgage Calculator:
-![Projection Chart](Assumptions.png)
 
 ## How to Use
 1. Download the Excel file.

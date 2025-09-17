@@ -2,20 +2,20 @@
 This project is a dynamic Excel-based retirement calculator designed to model long-term savings and withdrawal strategies. It was created as a personal finance and actuarial learning project.
 
 ## Features
-- Models 401(k), Roth IRA, Traditional IRA, and taxable accounts.
-- Inputs: contributions, expected return, inflation, retirement age, withdrawal amounts.
-- Outputs: account balances, projected retirement savings, and cash flow tables.
+- Models 401(k), Roth IRA, Traditional IRA, taxable accounts, and mortgage into retirement
+- Inputs: contributions, expected return, inflation, retirement age, withdrawal amounts, tax bracket, withdrawal ages, etc.
+- Outputs: account balances, projected retirement savings, cash flow tables, and home-equity/payments-remaining on mortgage
 - Time Value of Money (TVM) features:
-  - Level, increasing, and geometric annuities
-  - Loan amortization
-  - Duration and convexity (advanced formulas)
-- Scenario testing with adjustable contribution rates and assumptions.
+  - Annuities
+  - Loan Amortization
+  - Rates accounting for Inflation
+- Scenario testing with adjustable contribution rates and certain adjustable assumptions.
 
 ## Skills Demonstrated
-- Advanced Excel formulas
-- Financial mathematics and actuarial concepts
-- Retirement planning and investment modeling
-- Clear documentation and user-friendly design
+- Basic Excel Modelling
+- Financial Mathematics and Actuarial Concepts 
+- Retirement Planning and Investment Modeling
+- Clear Documentation and User-Friendly Design
 
 ## How to Use
 1. Download the Excel file.

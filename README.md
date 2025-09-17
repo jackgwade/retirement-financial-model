@@ -11,7 +11,7 @@ This project is a dynamic Excel-based retirement calculator designed to model lo
   - Rates accounting for Inflation
 - Scenario testing with adjustable contribution rates and certain adjustable assumptions.
 
-![Projection Chart](main/projections.png) 
+![Projection Chart](projections.png) 
 
 ## Skills Demonstrated
 - Basic Excel Modelling
